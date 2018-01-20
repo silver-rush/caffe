@@ -48,6 +48,7 @@ class LossLayer : public Layer<Dtype> {
   }
 };
 
+
 }  // namespace caffe
 
 #endif  // CAFFE_LOSS_LAYER_HPP_
